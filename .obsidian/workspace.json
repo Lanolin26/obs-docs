@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "habr/Экспорт статей Хабра в html, markdown.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Экспорт статей Хабра в html, markdown"
             }
           }
         ]
@@ -111,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "habr/Экспорт статей Хабра в html, markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Экспорт статей Хабра в html, markdown"
             }
           },
           {
@@ -136,17 +137,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "habr/Экспорт статей Хабра в html, markdown.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Экспорт статей Хабра в html, markdown"
+            }
+          },
+          {
+            "id": "0d994961e33b1cd9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,6 +175,21 @@
   "active": "ad679c554f95b085",
   "lastOpenFiles": [
     "README.md",
+    "habr/picture/vd45s-gggetrnpbkq9czftttz5o.png",
+    "habr/picture/qjfgxsxydopwlarzimlvqus-mwq.png",
+    "habr/picture/loefbade5qz6a50a4tsuideypmo.png",
+    "habr/picture/jjkvikxi-jyjozgmh0q0j-d_qyg.png",
+    "habr/picture/4eurmlni9b4f15fuqpuz4wrolmq.png",
+    "habr/picture/e575aad2d17435db53703ced1169ef21.jpg",
+    "habr/picture/d0fc200ece91b22696bcdd668b8a15d7.jpg",
+    "habr/picture/7194201e3df8a494d16fee91920645dd.jpg",
+    "habr/picture/875762db2bceaf902002b2f3063c7d30.jpg",
+    "habr/picture/72302ee4c678e8ba385eed1759700cf5.jpg",
+    "habr/Экспорт статей Хабра в html, markdown.md",
+    "habr/picture",
+    "рецепты",
+    "habr",
+    "assets",
     "Текстовый документ.txt"
   ]
 }
