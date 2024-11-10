@@ -1,10 +1,11 @@
 ---
 tags:
-- habrahabr.ru
-- хабрахабр
-- Habr
-- Python
+  - habrahabr.ru
+  - хабрахабр
 source: https://habr.com/ru/articles/665254/
+habs:
+  - Habr
+  - Python
 ---
 
 ![image](picture/qjfgxsxydopwlarzimlvqus-mwq.png)
