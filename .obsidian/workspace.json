@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3d36498a3770e984",
+        "id": "412e3b34b065c459",
         "type": "tabs",
         "children": [
           {
-            "id": "ad679c554f95b085",
+            "id": "bd60e323bcda3133",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "habr/Экспорт статей Хабра в html, markdown.md",
-                "mode": "preview",
-                "source": false
+                "file": "downloader/harbdwn/lib/python3.10/site-packages/setuptools/_vendor/packaging/__about__.py",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Экспорт статей Хабра в html, markdown"
+              "icon": "git-pull-request",
+              "title": "Diff View (__about__.py)"
             }
           }
         ]
@@ -52,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"▍ \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,12 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "habr/Экспорт статей Хабра в html, markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Экспорт статей Хабра в html, markdown"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -137,11 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "habr/Экспорт статей Хабра в html, markdown.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Структура Экспорт статей Хабра в html, markdown"
+              "title": "Структура"
             }
           },
           {
@@ -172,24 +168,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad679c554f95b085",
+  "active": "bd60e323bcda3133",
   "lastOpenFiles": [
+    "habr/Книга  «Паттерны проектирования JavaScript».md",
+    "habr/5 небанальных дистрибутивов Linux, о которых вы могли не слышать.md",
     "README.md",
-    "habr/picture/vd45s-gggetrnpbkq9czftttz5o.png",
-    "habr/picture/qjfgxsxydopwlarzimlvqus-mwq.png",
-    "habr/picture/loefbade5qz6a50a4tsuideypmo.png",
-    "habr/picture/jjkvikxi-jyjozgmh0q0j-d_qyg.png",
-    "habr/picture/4eurmlni9b4f15fuqpuz4wrolmq.png",
-    "habr/picture/e575aad2d17435db53703ced1169ef21.jpg",
-    "habr/picture/d0fc200ece91b22696bcdd668b8a15d7.jpg",
-    "habr/picture/7194201e3df8a494d16fee91920645dd.jpg",
-    "habr/picture/875762db2bceaf902002b2f3063c7d30.jpg",
-    "habr/picture/72302ee4c678e8ba385eed1759700cf5.jpg",
-    "habr/Экспорт статей Хабра в html, markdown.md",
-    "habr/picture",
-    "рецепты",
-    "habr",
-    "assets",
-    "Текстовый документ.txt"
+    "downloader/README.md",
+    "article/WireGuard - перспективный VPN.md",
+    "article/Systemd – очень быстрый старт.md",
+    "article/Restic - backup для современного мира.md",
+    "article/Repmgr - управление репликацией postgresql.md",
+    "article/Pandoc User’s Guide.md",
+    "article/Orange Pi Zero, подключение и настройка ИК пульта в Debian Jessie.md",
+    "article/Duplicity – экстремально простой способ резервного копирования.md",
+    "article/CFSS. TLS CA со скоростью молнии - SRE Blog.md",
+    "article/Building a PKI from Scratch with CFSSL.md",
+    "article/Сравнение систем мониторинга.md",
+    "article/Потоковая репликация в PostgreSQL – короткое введение.md",
+    "article/Новая утилита для ПК с Windows — WinUtil. Она вообще не занимает место, но нереально полезная.md",
+    "article/Мониторинг задержек при помощи smokeping.md",
+    "article/Миграция на mongo replica set без потери данных.md",
+    "article/Вышла бесплатная замена Active Directory российского разработчика.md",
+    "article/pictures/Pasted image 20241110120714.png",
+    "article/pictures",
+    "article/pictures/Pasted image 20241110120744.png",
+    "article/pictures/Pasted image 20241110120739.png",
+    "article/pictures/Pasted image 20241110120735.png",
+    "article/pictures/Pasted image 20241110120731.png",
+    "article/pictures/Pasted image 20241110120727.png",
+    "article/pictures/Pasted image 20241110120720.png",
+    "article/Коротко о безопасности в сети или краткое руководство для практикующих параноиков.md",
+    "article/Книги для инфраструктурного инженера, часть 1 - hard skills.md",
+    "habr/LLM API для Java.md",
+    "habr/Home Lab мечты в Kubernetes.md",
+    "habr/Коротко про слоты в Vue.js.md",
+    "habr/Как снизить расходы на мониторинг  замена Prometheus на VictoriaMetrics.md",
+    "habr/Как сделать свой UI Kit на Vue 3 + storybook и задеплоить его на npm.md",
+    "habr/picture/__eiq-hfstp7lxuxjrkocrzxc6u.png",
+    "habr/picture/yemqwjbgrrduffbk6xbtmxmwiqs.png",
+    "habr/picture/mcx3x8nmdamzdadvx57rsliwzi0.png",
+    "habr/singles/Персональное облако/picture",
+    "habr/singles/Персональное облако",
+    "habr/singles/На GitHub опубликован скрипт ReplicateUI для копирования любого веб-сайта со всем кодом и картинками/video/video.txt",
+    "habr/singles/На GitHub опубликован скрипт ReplicateUI для копирования любого веб-сайта со всем кодом и картинками/video",
+    "habr/singles/На GitHub опубликован скрипт ReplicateUI для копирования любого веб-сайта со всем кодом и картинками/picture",
+    "habr/singles/На GitHub опубликован скрипт ReplicateUI для копирования любого веб-сайта со всем кодом и картинками",
+    "habr/singles/Небезопасность Debian/picture",
+    "habr/singles/Небезопасность Debian",
+    "habr/singles/Книга  «Паттерны проектирования JavaScript»/picture"
   ]
 }
